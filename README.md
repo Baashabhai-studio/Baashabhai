@@ -11,8 +11,10 @@
 
 #### 🔗 Connect
 - 🌐 Website: https://www.baashabhai.com
-- 📺 YouTube: https://www.youtube.com/c/Baashabhaigamer
-- 💬 Discord: https://discord.gg/5XjyX44FQs
+- 🛒 Store: https://store.baashabhai.com/category/2210418
+- ☕ Support: https://buymeacoffee.com/baashabhai/extras
+- 📺 YouTube: https://www.youtube.com/@Baashabhai/videos
+- 💬 Discord: https://discord.gg/FZMWRCtCs6
 
 <sub>Made with ❤️ for the FiveM community.</sub>
 
