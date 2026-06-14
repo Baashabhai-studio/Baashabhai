@@ -4,10 +4,15 @@
 🛠️ We build clean, premium-feeling content for the community — **scripts** *and* **custom maps / MLOs** — some free, some on our store.
 🧩 Our scripts are standalone & framework-agnostic (QBCore, QBox, ESX).
 
-#### ⭐ Featured work
+#### 🏙️ Custom Maps & MLOs
+We design **original custom maps, MLOs and interiors** for FiveM servers — optimized,
+detailed builds tailored to your server's theme. See our work and grab them here:
+- 🛒 **Store:** https://store.baashabhai.com/category/2210418
+- 🌐 **Website:** https://www.baashabhai.com
+
+#### ⭐ Featured scripts
 - 🗺️ **[BB Blip Creator](https://github.com/Baashabhai-studio/bb_blip_creator)** — live in-game blip manager with 800+ real icons, synced to everyone.
 - 🔒 **[Door Lock](https://github.com/Baashabhai-studio/door_lock_baashastudios)** — luxury security door lock, QBCore + ESX.
-- 🏙️ **Custom Maps & MLOs** — original builds for FiveM servers.
 
 #### 🔗 Connect
 - 🌐 Website: https://www.baashabhai.com
